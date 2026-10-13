@@ -21,21 +21,21 @@ I am a passionate MERN Stack Developer, Cloud Engineer, and Python Expert specia
 
 ## 📜 Certifications & Badges
 
-* ☁️ *Google Cloud:* Google Cloud Skills Boost (50+ Skill Badges), Google Cloud Arcade Facilitator Program.
+☁️ *Google Cloud:* Google Cloud Skills Boost (50+ Skill Badges), Google Cloud Arcade Facilitator Program.
 
-* 🔐 *Cybersecurity:* Microsoft SC-200 (Security Operations Analyst Associate), Certified in Cybersecurity (CC).
+🔐 *Cybersecurity:* Microsoft SC-200 (Security Operations Analyst Associate), Certified in Cybersecurity (CC).
 
-* 🤖 *Artificial Intelligence & Prompt Engineering:* IBM Getting Started with Large Language Models.
+🤖 *Artificial Intelligence & Prompt Engineering:* IBM Getting Started with Large Language Models.
 
-* 📚 *Additional Learning:* Cisco Networking Academy, Microsoft, Simplilearn, and IBM course completions.
+📚 *Additional Learning:* Cisco Networking Academy, Microsoft, Simplilearn, and IBM course completions.
 
 * 🎯 *AWS:*
   • 🛡️ AWS Security Incident Response Overview
   • 💻 Fundamentals of Machine Learning and Artificial Intelligence
-  • ⭐ 1 Million Prompters
-  • 🧠 Getting Started with Large Language Models
-  • ☁️ Claude with the Anthropic API
-  • ⚙️ Introduction to agent skills
+  ⭐ 1 Million Prompters
+  🧠 Getting Started with Large Language Models
+  ☁️ Claude with the Anthropic API
+  ⚙️ Introduction to agent skills
 
 ## 🚀 Current Projects & Focus
 
