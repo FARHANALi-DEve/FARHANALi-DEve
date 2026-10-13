@@ -29,12 +29,18 @@ I am a passionate MERN Stack Developer, Cloud Engineer, and Python Expert specia
 
 📚 *Additional Learning:* Cisco Networking Academy, Microsoft, Simplilearn, and IBM course completions.
 
-* 🎯 *AWS:*
+* 🎯 *AWS:**
+* 
   • 🛡️ AWS Security Incident Response Overview
+  
   • 💻 Fundamentals of Machine Learning and Artificial Intelligence
+  
   ⭐ 1 Million Prompters
+  
   🧠 Getting Started with Large Language Models
+  
   ☁️ Claude with the Anthropic API
+  
   ⚙️ Introduction to agent skills
 
 ## 🚀 Current Projects & Focus
