@@ -1,175 +1,180 @@
 <!--
-  FARHAN ALI — LUXURY GITHUB PROFILE
-  A carefully redesigned version of the original README.
-  Original skills, credentials, projects/focus, and contact information are retained.
-  The animated orb is an externally hosted, MIT-licensed media asset; credit below.
-  No JavaScript, embedded CSS, or actual WebGL runs inside GitHub README.md.
+  FARHAN ALI — CYBERVERSE PROFILE
+  Animated 3D imagery is pre-rendered into GIF assets so it displays on GitHub.
+  GitHub README markdown does not execute WebGL, JavaScript, or arbitrary CSS.
+  ModelForge AI is a proposed public SaaS, not a live product.
 -->
 
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/112545137?v=4" width="104" height="104" alt="Farhan Ali — GitHub profile" />
+<a href="https://github.com/FARHANALi-DEve/Farhan_Ali_Portfolio_v2">
+  <img src="./assets/cyberverse-3d-hero.gif" width="100%" alt="Animated 3D cyber workstation showing FarhanOS, a rotating cybersecurity shield and neon-lit keyboard" />
+</a>
 
-  <h1>F A R H A N &nbsp; A L I</h1>
+<h1>F A R H A N &nbsp; A L I</h1>
 
-  <p><b>FULL-STACK ENGINEERING &nbsp; / &nbsp; CLOUD &nbsp; / &nbsp; CYBERSECURITY</b></p>
+<p><strong>FULL-STACK DEVELOPER &nbsp; • &nbsp; CLOUD ENGINEER &nbsp; • &nbsp; CYBERSECURITY / ETHICAL HACKING &nbsp; • &nbsp; AI ENGINEERING</strong></p>
+<p><i>Engineering secure systems. Exploring immersive worlds. Building useful AI.</i></p>
 
-  <p><i>Building digital experiences with intention, precision, and a little bit of magic.</i></p>
-
-  <a href="https://github.com/FARHANALi-DEve">
-    <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-151515?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://www.linkedin.com/in/farhan-ali-985901241/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-9F8351?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=151515" />
-  </a>
-
-  <br /><br />
-
-  <!-- Animated 3D-rendered asset, viewable directly in a GitHub README -->
-  <img
-    src="https://github.com/wranngle/ORBFORGE/releases/download/v1.1.0/amethyst-globe.webp"
-    width="280"
-    alt="Looping animated 3D amethyst globe"
-  />
-
-  <br />
-  <sub>AN ENGINEERING MINDSET. AN ART DIRECTOR'S EYE.</sub>
-
-  <br /><br />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=3000&pause=1300&color=C9A86A&center=true&vCenter=true&width=650&height=46&lines=MERN+Stack+Developer;Cloud+Engineer+%26+Python+Expert;Cybersecurity+%26+Secure+Systems;AI+Automation+%26+3D+Web+Experiences" alt="Animated text: Farhan Ali's specialties" />
+<a href="https://github.com/FARHANALi-DEve/Farhan_Ali_Portfolio_v2"><img alt="3D Portfolio v2" src="./assets/badges/portfolio.svg" /></a>
+<a href="https://github.com/FARHANALi-DEve"><img alt="GitHub repositories" src="./assets/badges/github.svg" /></a>
+<a href="https://www.linkedin.com/in/farhan-ali-985901241/"><img alt="LinkedIn" src="./assets/badges/linkedin.svg" /></a>
 
 </div>
 
 ---
 
-## 01 / THE PERSON BEHIND THE CODE
+## 01 / FEATURED FIRST — THE 3D COMPUTER PORTFOLIO V2
 
-Hi there! 👋 I'm **Farhan Ali** — a passionate **MERN Stack Developer, Cloud Engineer, and Python Expert**, specializing in **full-stack applications, automation, and cybersecurity concepts**.
+### [FARHAN ALI — INTERACTIVE 3D COMPUTER STUDIO](https://github.com/FARHANALi-DEve/Farhan_Ali_Portfolio_v2)
 
-I enjoy turning complicated ideas into carefully engineered products: elegant interfaces, practical AI assistants, resilient backend systems, secure software, and immersive digital experiences. I care about both what a product **does** and how it **feels** to use.
+**The centerpiece of my portfolio.** Step inside a retro-inspired 3D workstation and discover a personalized desktop experience, **FarhanOS**. A spatial way to explore the person behind the code.
 
-> **My approach:** Thoughtful UI/UX. Dependable engineering. Security-conscious development. No unnecessary complexity.
-
-## 02 / TECH STACK & SKILLS
-
-**Frontend & mobile**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-**Backend, data & Python**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</p>
-
-**Developer tools & disciplines**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Cloud_Engineering-26364A?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Engineering" />
-  <img src="https://img.shields.io/badge/Cybersecurity-2D323C?style=for-the-badge&logo=protonvpn&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/AI_%26_Automation-927344?style=for-the-badge&logo=python&logoColor=white" alt="AI and Automation" />
-</p>
-
-## 03 / SELECTED WORK — REAL GITHUB REPOSITORIES
-
-Projects linked below are repositories on my GitHub. Explore the code and documentation for implementation details.
-
-| Project | Focus | Repository |
-| :--- | :--- | :--- |
-| **The House of Farhan** | Premium e-commerce and full-stack shopping experience | [Explore →](https://github.com/FARHANALi-DEve/E-commerce-the-house-of-farhan) |
-| **Pulse SaaS Dashboard** | Subscription, customer management, and analytics dashboard | [Explore →](https://github.com/FARHANALi-DEve/pulse-saas-dashboard) |
-| **SentinelScan** | Security-focused software project | [Explore →](https://github.com/FARHANALi-DEve/SentinelScan) |
-| **JARVIS AI Assistant** | Python voice assistant and AI automation | [Explore →](https://github.com/FARHANALi-DEve/JARVIS-AI-Assistant-in-Python) |
-| **Password Management System** | Secure password management and data protection | [Explore →](https://github.com/FARHANALi-DEve/-PASSWORD-MANAGEMENT-SYSTEM-) |
-| **Hello Cloud Build App** | Cloud build / deployment experimentation | [Explore →](https://github.com/FARHANALi-DEve/hello-cloudbuild-app) |
-
-Other repositories: [sample-app](https://github.com/FARHANALi-DEve/sample-app) · [My GitHub profile repository](https://github.com/FARHANALi-DEve/FARHANALi-DEve)
-
-## 04 / THE DESIGN LAB — IMMERSIVE EXPERIENCES
-
-A look at creative directions and portfolio work beyond conventional dashboards. **These are presented as portfolio concepts or works in progress, not as published GitHub repos or deployed demos.**
-
-### ◇ LUXORA ESTATE — Luxury Real Estate Experience
-
-An architectural-inspired luxury home and real estate experience: cinematic property storytelling, premium typography, rich spatial presentation, polished motion, and a vision for immersive 3D property exploration.
-
-`Luxury Architecture` · `3D Web Direction` · `Next.js` · `UI/UX` · `Real Estate`
-
-### ◇ FARHAN ALI — Luxury 3D Automotive Experience
-
-A high-end automotive showroom direction built around cinematic car presentation, interactive 3D concepts, fluid transitions, and carefully art-directed UI.
-
-`Automotive` · `Interactive 3D` · `Premium UI/UX` · `Motion`
-
-### ◇ NEXORA AI — AI-Powered Website Builder
-
-An AI website-builder project direction focused on natural-language site generation and a sophisticated editor experience, using a **JavaScript-first** stack.
-
-`JavaScript` · `React / Next.js` · `AI` · `MongoDB` · `SaaS`
-
-## 05 / CERTIFICATIONS, BADGES & CONTINUOUS LEARNING
-
-The following preserves the certifications, badges, programs, and learning achievements listed in my original profile README.
-
-| Area | Credentials, badges & learning |
+| Outer world | Inside the computer |
 | :--- | :--- |
-| ☁️ **Google Cloud** | Google Cloud Skills Boost (**50+ Skill Badges**); Google Cloud Arcade Facilitator Program |
+| 3D computer, desk and immersive environment | About, experience, projects, skills and photos |
+| Mouse-driven perspective and monitor interactions | Desktop windows, My Computer, Notepad and mini apps |
+| Three.js / WebGL visuals | Portfolio media, résumé and contact routes |
+
+**Explore the actual project:** [**Portfolio Version 2 →**](https://github.com/FARHANALi-DEve/Farhan_Ali_Portfolio_v2) · [**Classic portfolio →**](https://github.com/FARHANALi-DEve/Farhan_Ali_Portfolio)
+
+> The animated image above is a freshly rendered **3D README visual**, not a screenshot of the running Portfolio v2. The actual interactive scene opens through its repository. The project's current README documents the camera controls and outstanding motion improvements.
+
+---
+
+## 02 / CYBERSECURITY & ETHICAL HACKING
+
+<div align="center">
+<img src="./assets/cybersecurity-3d-shield.gif" width="100%" alt="Animated 3D rotating cybersecurity shield surrounded by holographic network rings" />
+</div>
+
+Security belongs in the architecture, not just the final checklist. My interests span **ethical hacking, authorized penetration testing, web application security, threat modeling, network defense and cloud security**.
+
+<table>
+<tr>
+  <td align="center" width="25%"><img src="./assets/icons/terminal.svg" width="40" alt="Terminal" /><br/><b>Ethical Hacking</b><br/><sub>Authorized security testing</sub></td>
+  <td align="center" width="25%"><img src="./assets/icons/bug.svg" width="40" alt="Vulnerability" /><br/><b>Web Pentesting</b><br/><sub>OWASP · Attack-surface review</sub></td>
+  <td align="center" width="25%"><img src="./assets/icons/network.svg" width="40" alt="Network" /><br/><b>Network Defense</b><br/><sub>Analysis · Monitoring</sub></td>
+  <td align="center" width="25%"><img src="./assets/icons/cloud.svg" width="40" alt="Cloud security" /><br/><b>Cloud Security</b><br/><sub>Identity · Configuration</sub></td>
+</tr>
+<tr>
+  <td align="center"><img src="./assets/icons/lock.svg" width="40" alt="Secure authentication" /><br/><b>Secure Systems</b><br/><sub>Authentication · Secrets</sub></td>
+  <td align="center"><img src="./assets/icons/shield.svg" width="40" alt="Threat detection" /><br/><b>Threat Detection</b><br/><sub>Investigation · Hardening</sub></td>
+  <td align="center"><img src="./assets/icons/key.svg" width="40" alt="Cryptography" /><br/><b>Data Protection</b><br/><sub>Encryption · Access control</sub></td>
+  <td align="center"><img src="./assets/icons/globe.svg" width="40" alt="Security research" /><br/><b>Security Research</b><br/><sub>Responsible disclosure</sub></td>
+</tr>
+</table>
+
+**Security projects:** [SentinelScan](https://github.com/FARHANALi-DEve/SentinelScan) · [Password Management System](https://github.com/FARHANALi-DEve/-PASSWORD-MANAGEMENT-SYSTEM-)
+
+`Security+ Mindset` · `OWASP` · `Linux / Kali Learning` · `Network Fundamentals` · `Python Security Automation` · `Cloud IAM` · `Defensive Engineering`
+
+> All security testing should be performed only on systems you own or have explicit authorization to assess.
+
+---
+
+## 03 / MODEL FORGE AI — PUBLIC AI TRAINING PLATFORM
+
+<div align="center">
+<img src="./assets/model-forge-3d-network.gif" width="100%" alt="Animated 3D neural network visualization for the ModelForge AI public SaaS concept" />
+</div>
+
+**ModelForge AI** is my planned **public, multi-user AI model training and deployment platform**, designed to make model experimentation more accessible to developers, researchers and independent builders.
+
+| User capability | Product direction |
+| :--- | :--- |
+| 👤 **User accounts & workspaces** | Secure authentication, personal projects and organizations |
+| 📁 **Datasets** | Upload, validate, version and manage datasets |
+| 🧠 **Model training** | Start fine-tuning or training jobs using supported templates |
+| 📊 **Live metrics** | Track loss, accuracy, progress, logs and evaluation results |
+| 🧪 **Model playground** | Test outputs and compare saved model versions |
+| 🔑 **Model API endpoints** | Deploy supported models behind authenticated APIs |
+| 💳 **GPU credits and plans** | Quotas, usage metering, billing and resource limits |
+| 🌐 **Model marketplace** | Discover and share published models with clear permissions |
+| 🛡️ **Admin and security** | Team access, audit logs, job isolation and abuse protection |
+
+**Proposed architecture:** `Next.js (JavaScript / JSX)` → `Node.js / API routes` → `MongoDB` → `Python FastAPI` → `PyTorch / Hugging Face` → `Isolated CPU/GPU Workers` → `Storage + Deployment API`.
+
+**Release direction:** Build accounts, datasets, bounded jobs and live progress first; then add model comparisons, GPU billing, hosted endpoints and marketplace features. Compute resources and API providers must be configured before public model training can run.
+
+*Status: product concept and development plan. No live hosted ModelForge service or finished ModelForge repository is claimed here.*
+
+---
+
+## 04 / ABOUT — ENGINEERING THE UNEXPECTED
+
+I’m **Farhan Ali**, a developer working across **MERN stack applications, Next.js, Python AI, cloud engineering and cybersecurity**. I enjoy designing tools that are practical beneath the surface yet memorable to use — whether that means a secure backend, a desktop AI assistant, a full-stack product or a 3D interactive world.
+
+**Principles:** Security by design · Practical AI · Thoughtful interfaces · Real engineering · Continuous learning.
+
+## 05 / THE TOOLBOX
+
+<table>
+<tr>
+  <td align="center"><img src="./assets/icons/code.svg" width="42" alt="Frontend development" /><br/><b>FRONTEND</b><br/><sub>JavaScript · React · Next.js · Tailwind</sub></td>
+  <td align="center"><img src="./assets/icons/database.svg" width="42" alt="Backend and data" /><br/><b>BACKEND</b><br/><sub>Node.js · Express · MongoDB · FastAPI</sub></td>
+  <td align="center"><img src="./assets/icons/brain.svg" width="42" alt="AI engineering" /><br/><b>AI / PYTHON</b><br/><sub>Python · ML · Model tooling · Agents</sub></td>
+</tr>
+<tr>
+  <td align="center"><img src="./assets/icons/cloud.svg" width="42" alt="Cloud engineering" /><br/><b>CLOUD</b><br/><sub>Google Cloud · Docker · Deployments</sub></td>
+  <td align="center"><img src="./assets/icons/shield.svg" width="42" alt="Cybersecurity" /><br/><b>CYBERSECURITY</b><br/><sub>Web security · Monitoring · Hardening</sub></td>
+  <td align="center"><img src="./assets/icons/cpu.svg" width="42" alt="3D graphics" /><br/><b>IMMERSIVE WEB</b><br/><sub>Three.js · WebGL · Interaction</sub></td>
+</tr>
+</table>
+
+**Preferred web stack:** `JavaScript / JSX only` · `Next.js` · `React` · `Node.js` · `MongoDB` · `Tailwind CSS`  
+**Python AI services:** `Python` · `FastAPI` · `PyTorch` · `Hugging Face` (as appropriate).
+
+---
+
+## 06 / EXPLORE THE REPOSITORIES
+
+| Project | Area | Source |
+| :--- | :--- | :--- |
+| **★ Farhan Ali Portfolio v2** | Immersive 3D computer experience | [View repo](https://github.com/FARHANALi-DEve/Farhan_Ali_Portfolio_v2) |
+| Farhan Ali Portfolio | Editorial / 3D portfolio | [View repo](https://github.com/FARHANALi-DEve/Farhan_Ali_Portfolio) |
+| FARHAN ALI 3D SHOWROOM | Luxury automotive experience | [View repo](https://github.com/FARHANALi-DEve/FARHAN_ALI_3D_SHOWROOM) |
+| LUXORA ESTATE | Luxury real estate | [View repo](https://github.com/FARHANALi-DEve/LUXORA-ESTATE) |
+| The House of Farhan | Full-stack e-commerce | [View repo](https://github.com/FARHANALi-DEve/E-commerce-the-house-of-farhan) |
+| Pulse SaaS Dashboard | Analytics, subscriptions, CRM | [View repo](https://github.com/FARHANALi-DEve/pulse-saas-dashboard) |
+| SentinelScan | Security-focused project | [View repo](https://github.com/FARHANALi-DEve/SentinelScan) |
+| JARVIS AI Assistant | Python AI / voice automation | [View repo](https://github.com/FARHANALi-DEve/JARVIS-AI-Assistant-in-Python) |
+| Password Management System | Secure vault and password management | [View repo](https://github.com/FARHANALi-DEve/-PASSWORD-MANAGEMENT-SYSTEM-) |
+| Hello Cloud Build App | Cloud builds / deployment | [View repo](https://github.com/FARHANALi-DEve/hello-cloudbuild-app) |
+
+**Other experiments:** [sample-app](https://github.com/FARHANALi-DEve/sample-app).  
+**In development / planning:** **ModelForge AI** (public training SaaS) and **NEXORA AI** (AI-powered website-builder concept).
+
+---
+
+## 07 / CERTIFICATIONS & CONTINUOUS LEARNING
+
+| Discipline | Credentials and learning |
+| :--- | :--- |
+| ☁️ **Cloud engineering** | Google Cloud Skills Boost — **50+ Skill Badges**; Google Cloud Arcade Facilitator Program |
 | 🔐 **Cybersecurity** | Microsoft **SC-200** (Security Operations Analyst Associate); **Certified in Cybersecurity (CC)** |
-| 🤖 **AI & Prompt Engineering** | IBM **Getting Started with Large Language Models** |
-| 📚 **Additional learning** | Cisco Networking Academy, Microsoft, Simplilearn, and IBM course completions |
-| 🎯 **AWS** | AWS Security Incident Response Overview |
+| 🧠 **AI** | IBM **Getting Started with Large Language Models**; ML & AI Fundamentals; Claude with the Anthropic API |
+| 🌐 **Networking / software** | Cisco Networking Academy; Microsoft, Simplilearn and IBM course completions |
+| 🛡️ **Cloud incident response** | AWS Security Incident Response Overview |
 
-**Additional learning highlights**
+**Learning highlights:** 1 Million Prompters · Introduction to Agent Skills · Security Incident Response · Applied Python Automation.
 
-- 🛡️ AWS Security Incident Response Overview
-- 💻 Fundamentals of Machine Learning and Artificial Intelligence
-- ⭐ 1 Million Prompters
-- 🧠 Getting Started with Large Language Models
-- ☁️ Claude with the Anthropic API
-- ⚙️ Introduction to agent skills
+---
 
-## 06 / CURRENT PROJECTS & FOCUS
-
-- **AI & voice assistants:** Building advanced desktop voice assistants like JARVIS using Python, CustomTkinter, and Google Generative AI APIs.
-- **Secure software:** Developing secure full-stack web applications and encrypted password managers.
-- **Mobile development:** Expanding into React Native and Expo Go.
-- **Creative engineering:** Exploring 3D web experiences and sophisticated, responsive UI/UX.
-- **Cloud systems:** Improving deployment workflows, reliable application architecture, and security-oriented engineering practices.
-
-## 07 / LET'S BUILD SOMETHING EXCEPTIONAL
+## 08 / CONNECT
 
 <div align="center">
 
-  <b>Great products aren't only built. They're thoughtfully crafted.</b>
+### THE FUTURE ISN'T JUST BUILT. IT'S SECURED.
 
-  <br /><br />
+<a href="https://github.com/FARHANALi-DEve"><img alt="GitHub" src="./assets/badges/github.svg" /></a>
+<a href="https://www.linkedin.com/in/farhan-ali-985901241/"><img alt="LinkedIn" src="./assets/badges/linkedin.svg" /></a>
+<a href="mailto:farhan2545426@gmail.com"><img alt="Email" src="./assets/badges/email.svg" /></a>
 
-  <a href="https://github.com/FARHANALi-DEve">
-    <img src="https://img.shields.io/badge/Explore_GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/farhan-ali-985901241/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-A58755?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-
-  <br /><br />
-
-  <sub>FARHAN ALI · MERN STACK DEVELOPER · CLOUD ENGINEER · PYTHON EXPERT · CYBERSECURITY</sub>
+<sub>FARHAN ALI · MERN / CLOUD / CYBERSECURITY / ETHICAL HACKING / AI · © 2026</sub>
 
 </div>
 
 ---
 
-<sub>**Visual asset credit:** Animated amethyst globe by [ORBFORGE / Wranngle Systems LLC](https://github.com/wranngle/ORBFORGE), distributed under the [MIT License](https://github.com/wranngle/ORBFORGE/blob/main/LICENSE) (© 2026 Wranngle Systems LLC). The animation is a pre-rendered 3D visual, not an interactive WebGL scene. GitHub README rendering does not execute custom JavaScript or interactive 3D engines.</sub>
+<sub>**Visuals and attribution:** The three looping GIFs in `assets/` were rendered specifically for this README from original procedural 3D scenes. They are **animated 3D visuals**, not executable WebGL. GitHub READMEs cannot run interactive 3D JavaScript; for the navigable 3D workstation see [Portfolio v2](https://github.com/FARHANALi-DEve/Farhan_Ali_Portfolio_v2). The Portfolio v2 outer 3D scene credits [Henry Heffernan](https://github.com/henryjeff/portfolio-website) as described in that repository. Layout inspiration: [Refs.Gallery](https://refs.gallery/projects).</sub>
